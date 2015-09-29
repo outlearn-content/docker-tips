@@ -13,4 +13,4 @@ Solo Sailor
 
 Solo Sailor is one of the developer superheroes who like to hang out at Outlearn and is Outlearn's resident expert on Docker.
 
-The high seas keep on drawing Solo Sailor to new adventures. While social in nature, at sea he sticks to the "one man - one boat" philosophy. Any vessel that he builds is tight enough to be unsinkable. He keeps up on his second job as a coder using a satellite link and a waterproof laptop.
+The high seas keep on drawing Solo Sailor to new adventures. While social in nature, at sea she sticks to the "one woman - one boat" philosophy. Any vessel that she builds is tight enough to be unsinkable. She keeps up with her second job as a coder using a satellite link and a waterproof laptop.
