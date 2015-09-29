@@ -8,7 +8,10 @@
       "description" : "Take your Docker skills to the next level with these awesome tips and tricks.",
       "privacy" : "public",
       "pages" : [
-        {"module" : "catalog/24-random-docker-tips"}
+        {"page" : "./pages/welcome.md"},
+        {"module" : "docker-tips-and-cheatsheet"},
+        {"module" : "catalog/24-random-docker-tips", "preface" : "This post has lots of pro tips on different aspects of Docker."},
+        {"module" : "catalog/snippets-for-tweaking-and-troubleshooting-docker"}
       ]
     }
   ],
