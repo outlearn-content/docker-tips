@@ -1,0 +1,21 @@
+{
+  "olpVersion" : "0.5",
+
+  "paths" : [
+    {
+      "name" : "docker-tips",
+      "title" : "Docker Tips and Tricks",
+      "description" : "Take your Docker skills to the next level with these awesome tips and tricks.",
+      "privacy" : "public",
+      "pages" : [
+        {"module" : "catalog/24-random-docker-tips"}
+      ]
+    }
+  ],
+
+  "modules" : [
+  ],
+
+  "assets" : [
+  ]
+}
