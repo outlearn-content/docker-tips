@@ -9,9 +9,9 @@
       "privacy" : "public",
       "pages" : [
         {"page" : "./pages/welcome.md"},
-        {"module" : "catalog/docker-tips-and-cheatsheet", "preface" : "Check out this cheatsheet for speeding up common tasks when using Docker. "},
-        {"module" : "catalog/24-random-docker-tips", "preface" : "This post has lots of pro tips on different aspects of Docker."},
-        {"module" : "catalog/snippets-for-tweaking-and-troubleshooting-docker", "preface" : "Here we have common error messages and other issues and what to do about them. "}
+        {"module" : "catalog/docker-tips-and-cheatsheet", "preface" : "Check out this cheatsheet for speeding up common tasks. "},
+        {"module" : "catalog/24-random-docker-tips", "preface" : "This post has lots of pro tips on various topics."},
+        {"module" : "catalog/snippets-for-tweaking-and-troubleshooting-docker", "preface" : "How to deal with common error messages and other issues. "}
       ]
     }
   ],

@@ -1,6 +1,6 @@
 # Skill up with Docker
 
-Here you'll find three awesome posts with tips and trick for Docker. They each help with different aspects of working with Docker and cover a nice variety of issues you might run into.
+Here you'll find three solid posts with tips and trick. They cover a nice variety of issues you might run into. If you have other suggestions for awesome resources to add, go ahead and use the Feedback button on the side.
 
 Happy learning!  
 Solo Sailor
